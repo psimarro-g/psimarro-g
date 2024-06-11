@@ -35,7 +35,7 @@
 <h2 align="left">Contact me 📥</h2>
 
 <a href='mailto:psimarro@student.42madrid.com' target="_blank"><img alt='Gmail' height="40" src='https://img.shields.io/badge/Gmail-100000?style=flat&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
-<a href="https://www.linkedin.com/in/pablo-simarro-gomez-82152a313" target="_blank">
+<a href="https://www.linkedin.com/in/pablo-simarro-gómez-82152a313" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </a>
 
