@@ -1,6 +1,6 @@
 <h1 align="left">Hello World👋, I'm Pablo</h1>
 
-<p align="left">I'm a graduate physicist, software developer and currently a student @ <a href="https://www.42madrid.com/" rel="noreferrer"> 42 Madrid</a> . <br>As early as I can remember I've had a passion for science and technology. <br>I really enjoy learning, breaking things appart and discovering how they work in the most fundamental level. <br>I'm always on the look for new and interesting problems to solve and projects to build or contribute to.</p>
+<p align="left">I'm a graduate physicist, software developer and currently student @ <a href="https://www.42madrid.com/" rel="noreferrer"> 42 Madrid</a> . <br>As early as I can remember I've had a passion for science and technology. <br>I really enjoy learning, breaking things appart and discovering how they work at the most fundamental level. <br>I'm always on the look for new and interesting problems to solve and projects to build or contribute to.</p>
 
 
 <br clear="both">
@@ -8,7 +8,9 @@
 <h2 align="left">About me 👨‍💻</h2>
 
 
-<p align="left">I'm currently a student at 42 Madrid completing the Common Core. <br>I'm looking for an internship or aprenticeship to launch my professional career and get started developing technology in a more professional environment.</p>
+<p align="left">I'm currently working for <a href="https://telefonicatech.com/" rel="noreferrer"> Telefonica Tech</a> in the Service Operations Automation department for Cloud and Cybersecurity while finishing my studies at 42.
+
+I'm also very passionate about sport, balancing work, studies and high performance canoeing, taking part in national and international-level events since 2015.</p>
 
 <br clear="both">
 
